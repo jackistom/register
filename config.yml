@@ -19,7 +19,7 @@ users:
       type: 1
       #username 学号或者工号
       username: '20182786'
-      name: ''
+      #name: ''
       #password 密码
       password: 'Jianghaom152'
       #address 地址，定位信息
